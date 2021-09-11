@@ -1,5 +1,5 @@
 {
     "name": "localtunnel-server",
     "description": "localtunnel exposes your localhost to the world for easy testing and sharing!",
-    "repository": "https://github.com/localtunnel/server"
+    "repository": "https://github.com/csolg/localtunnel-server"
 }
